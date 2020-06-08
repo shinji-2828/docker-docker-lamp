@@ -10,10 +10,10 @@
 statusがUPになっていることを確認する
 
 #### apache
-http://localhost:80にアクセスし「Hello World!!」が表示される
+http://localhost:80 にアクセスし「Hello World!!」が表示される
 
 #### php
-http://localhost:80/phpinfo.phpにアクセスし「phpinfo」が表示される
+http://localhost:80/phpinfo.php にアクセスし「phpinfo」が表示される
 
 #### mysql
 コンテナでbash実行
