@@ -23,6 +23,11 @@ http://localhost:80/phpinfo.php にアクセスし「phpinfo」が表示され�
 
 docker-compose.ymlで設定したパスワードでmysqlログインする
 
+#### phpmyadmin
+http://localhost:8080 にアクセスし「ログイン画面」が表示される
+
+docker-compose.ymlで設定したパスワードでmysqlログインする
+
 ##### バージョン確認
 ~~~
 # mysql> select version();
