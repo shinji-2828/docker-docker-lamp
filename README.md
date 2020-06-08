@@ -38,3 +38,13 @@ VMの場合はIPを調べる
 ~~~
 # docker-machine ls
 ~~~
+
+### 停止、終了
+
+~~~
+docker-compose stop
+docker-compose down
+
+docker rm [id or name]
+docker rmi [id or name]
+~~~
