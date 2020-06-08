@@ -27,3 +27,9 @@ docker-compose.ymlで設定したパスワードでmysqlログインする
 ~~~
 # mysql> select version();
 ~~~
+
+### tips
+VMの場合はIPを調べる
+~~~
+# docker-machine ls
+~~~
